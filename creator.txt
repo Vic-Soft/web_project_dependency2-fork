@@ -1,1 +1,2 @@
 Code is more than just a bunch of syntaxes. There's more!
+Command line interface and scripting will make your life beautiful.
