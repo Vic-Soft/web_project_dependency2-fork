@@ -6,3 +6,6 @@
 
 # For setting customized clean and smudge filter qualifier for specified files
 *.js	filter=functionUpdate
+
+# For ensuring that all files starting with a dot are not exported/downloaded from the release/tags page
+.*	export-ignore
